@@ -14,6 +14,6 @@ Link to [Live Project](https://uyoshm.csb.app/)
 
 Link to [codesandbox](https://codesandbox.io/s/github/hiddartho/mark9-games-to-play)
 
-### Previw of the app: 
+### Preview of the app: 
 ![games-to-play-image](https://github.com/hiddartho/mark9-games-to-play/blob/main/images/playgame_image.jpeg)
 
