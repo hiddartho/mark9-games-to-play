@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Roboto+Slab:wght@100&display=swap");
+* {
+  margin: 0;
+}
+.App {
+  font-family: "Press Start 2P", cursive;
+  /* font-family: 'Roboto Slab', serif; */
+  text-align: center;
+  background-color: #201f1f;
+  color: white;
+}
+button {
+  font-family: inherit;
+}
